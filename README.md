@@ -1,25 +1,23 @@
-# linux_dio
+#Bootcamp sobre Linux
 
-Bootcamp sobre Linux
-
-# Diretórios criados
+## Diretórios criados
 
 - /publico
 - /amd
 - /ven
 - /sec
 
-# Grupos criados
+## Grupos criados
 
 - GRP_AMD
 - GRP_VEN
 - GRP_SEC
 
-# Usuários criados
+## Usuários criados
 
 - carlos
 - debora
-  -josefina
+- josefina
 - maria
 - sebastiana
 - amanda
